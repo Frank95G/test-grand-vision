@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "test-grand-vision"
+  "defaultProject": "test-grand-vision",
+  "cli": {
+    "analytics": false
+  }
 }
